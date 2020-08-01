@@ -58,7 +58,7 @@ I'm Shaswata</h3>
   </a>
 </p>
 
-[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaswata56)  [<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shaswata56) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/shaswata56) [<img src='https://simpleicons.org/icons/facebook.svg' alt='facebook' height='40'>](https://facebook.com/shaswata56)
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaswata56)  [<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shaswata56) [<img src='https://simpleicons.org/icons/facebook.svg' alt='facebook' height='40'>](https://facebook.com/shaswata56) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/shaswata56)
 
 
 ![Profile views](https://gpvc.arturio.dev/shaswata56)
