@@ -18,9 +18,9 @@ I'm Shaswata</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=shaswata56&&show_icons=true&count_private=true&theme=tokyonight" alt="Shaswata's Stats" >
   </a>
   <a target="_blank" href="https://github.com/shaswata56/shaswata56" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata56&layout=compact&theme=tokyonight" alt="Most Used Language" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata56&hide=makefile,html,roff,jupyter+notebook&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Language" >
   </a>
-  <a target="_blank" href="https://www.hackthebox.eu/profile/89792" class="rich-diff-level-one">
+  <a target="_blank" href="https://app.hackthebox.eu/profile/89792" class="rich-diff-level-one">
     <img src="http://www.hackthebox.eu/badge/image/89792" alt="Hack The Box">
   </a>
 </p>
