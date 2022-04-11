@@ -1,14 +1,7 @@
-<h3> Hey there!! 😎<br><br>
-I'm Shaswata</h3> 
+<h3> Hey, I'm Shaswata. <br>
+Just another Software Enigineering undergrad & Associate Software Engineer @ Orbitax</h3>  
 
-#### I do: 
-- Think 🧠
-- Code Apps & Dapps 👨‍💻 
-- Train DL/ML Models 🖥️
-- Hack Systems 👺
-- Deploy-Provision-Orchestrate in the Cloud ☁️
-
-#### Fascinated by: 
+Things I wanna involve with:
 - Quantum Computing ⚛️
 - Brain Computer Interface 🧠🖥️
 - Bioinformatics 🧬
@@ -16,10 +9,10 @@ I'm Shaswata</h3>
 <p align="center">
   <a target="_blank" href="https://github.com/shaswata56" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=shaswata56&&show_icons=true&count_private=true&theme=tokyonight" alt="Shaswata's Stats" >
-  </a>
+  </a><br>
   <a target="_blank" href="https://github.com/shaswata56/shaswata56" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata56&hide=makefile,html,roff,jupyter+notebook&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Language" >
-  </a>
+  </a><br>
   <a target="_blank" href="https://app.hackthebox.eu/profile/89792" class="rich-diff-level-one">
     <img src="http://www.hackthebox.eu/badge/image/89792" alt="Hack The Box">
   </a>
