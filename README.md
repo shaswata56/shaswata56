@@ -1,5 +1,5 @@
 <h3> Hey, I'm Shaswata. <br>
-Just another Software Enigineering undergrad & Associate Software Engineer @ Orbitax</h3>  
+Associate Software Engineer @ Orbitax</h3>  
 
 Things I wanna involve with:
 - Quantum Computing ⚛️
