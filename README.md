@@ -1,11 +1,6 @@
 <h3> Hey, I'm Shaswata. <br>
 Associate Software Engineer @ Orbitax</h3>  
 
-Things I wanna involve with:
-- Quantum Computing ⚛️
-- Brain Computer Interface 🧠🖥️
-- Bioinformatics 🧬
-
 <p align="center">
   <a target="_blank" href="https://github.com/shaswata56" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=shaswata56&&show_icons=true&count_private=true&theme=tokyonight" alt="Shaswata's Stats" >
