@@ -1,5 +1,5 @@
 <h3> Hey, I'm Shaswata. <br>
-Associate Software Engineer at Orbitax</h3>  
+Software Engineer at Orbitax</h3>  
 
 <p align="center">
   <a target="_blank" href="https://github.com/shaswata56" class="rich-diff-level-one">
